@@ -1,1 +1,15 @@
-remote_theme: swanson/lagom
+# Site settings
+title: Roy Wang
+email: chuehchenw@gmail.com
+description: >
+  I try to improve myself and those around me every day.
+baseurl: ""
+url: "https://roywangtw.github.io"
+twitter_username: roywangtw
+github_username:  roywangtw
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+gems:
+  - jekyll-sitemap
