@@ -5,26 +5,26 @@ highlight_color: '#3498db'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github: swanson
+  github: roywangtw
   #bitbucket: philipj
-  hacker_news: swanson
+  #hacker_news: swanson
   #stackexchange: 348619
   #stackoverflow: 348619
-  twitter: _swanson
+  twitter: roywangtw
   #facebook: zuck
   #tumblr: animalygifs
-  #linkedin: philipjagielski
-  #gplus: 110552447039675960964
+  linkedin: chuehchenwang
+  gplus: chuehchenwang
   #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
   #flickr: johndoe
 
 # "Hi, I'm _______"
-name: Matt Swanson
-email: test@example.com
-tagline: "weak opinions, strongly held"
+name: Roy Wang
+email: chuehchenw@gmail.com
+tagline: ""
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key: UA-xxxx-x
+google_analytics_key: 
 
 # Toggle "Postings are my own" disclaimer in footer
 show_disclaimer: true
