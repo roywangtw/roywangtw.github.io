@@ -6,4 +6,4 @@ I started learning everything about data science and R programming in early Sept
 
 Thanks for taking the time to read my work! 
 
-Please feel free to [drop me a line](mailto:chuehchenw@gmail.com). Feedbacks are welcomed.
+I'd love to hear your feedbacks, so please [drop me a line](mailto:chuehchenw@gmail.com).
