@@ -1,24 +1,14 @@
 <nav>
-  <h1>Hi.</h1>
+  <h1>Hi!</h1>
   <a href="/">
     {% if site.data.theme.social.gravatar %}
-    <img src="http://www.gravatar.com/avatar/{{ site.data.theme.social.gravatar }}?s=200" id="gravatar" alt="My photo"/>
-    {% else %}
-    <img src="/logo.png" id="logo" alt="Blog logo"/>
-    {% endif %}
+    <img src="/images/roywang.jpg" id="author-photo" alt="Author photo"/>
   </a>
-  <h2>I'm <a href="/">{{ site.data.theme.name }}</a>.</h2>
+  <h2>I'm Roy Wang.</h2>
   <div id="bio">
-    <p>A brief bio or something witty.</p>
-    <p>
-      Edit me in <code>_includes/sidebar.html</code>
-    </p>
+    <p>Welcome to my Data Science Playground! You can learn more <a href="/about">about me</a>.</p>
   </div>
   <div id="social">
     {% include social.html %}
-  </div>
-
-  <div id="tags">
-    {% include tags.html %}
   </div>
 </nav>
