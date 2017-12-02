@@ -1,4 +1,4 @@
-# Welcome to Roy's DATA SCIENCE PLAYGROUND!
+# 
 
 ## Hi, I'm Roy Wang.
 
