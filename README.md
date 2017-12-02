@@ -1,4 +1,6 @@
-## Hi, I'm *Roy Wang*.
+# Welcome to Roy's DATA SCIENCE PLAYGROUND!
+
+### Hi, I'm *Roy Wang*.
 
 This is where I share my data analysis work.
 
