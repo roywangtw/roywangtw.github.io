@@ -1,6 +1,4 @@
-# 
-
-## Hi, I'm Roy Wang.
+## Hi, I'm *Roy Wang*.
 
 This is where I share my data analysis work.
 
