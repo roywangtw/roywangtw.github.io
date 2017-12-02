@@ -1,7 +1,16 @@
-# Welcome to Roy's DATA SCIENCE PLAYGROUND!
+roywangtw.github.io
+==================
 
-### Hi, I'm *Roy Wang*.
+Thank you for taking the time to read my posts!
 
-This is where I share my data analysis work.
+Spelling/grammar corrections are appreciated. I suggest using a Pull Request.
 
-Please also check out [my online resume](https://www.cakeresume.com/roywang) and [DataCamp profile](https://www.datacamp.com/profile/roywang).
+### License
+(Inspired by [Matt Swanson](http://mdswanson.com))
+
+The following directories and their contents are copyright Robert Herbig. You may not reuse anything therein without my permission:
+
+* _drafts/
+* _posts/
+
+All other directories and files are MIT Licensed.
