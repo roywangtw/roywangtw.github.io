@@ -4,7 +4,7 @@ This post presents only the findings, and the full analysis is available [here](
 
 ## Data exploration and visualization
 
-![](roywangtw.github.io/images/2017-11-19-male-female-births.png)
+![center](http://roywangtw.github.io/images/2017-11-19-male-female-births.png)
 
 Two interesting things pop out from the plot above:
 
@@ -12,7 +12,7 @@ Two interesting things pop out from the plot above:
 
 2. ***The larger the number of births in a certain administrative region, the bigger the gap between the numbers of male and female births.***: New Taipei City has consistently by far the highest numbers of births, regardless of gender. However, *the disparity between the numbers of male and female births there is the largest as well*, as evidenced by the wider gaps between the city's dark blue points and the black 45-degree gender parity line. In contrast, the regions with the lowest numbers of births (e.g. Lienchaing County, Kinmen County, Penghu County) are surprisingly more gender balanced. In fact, other more metropolitan areas like Taipei City and Taichung City also exhibit such bias towards male births. This probably goes directly against what many people would have guessed without looking at the data; one would assume the populous urban areas, with a relatively higher average of education level and better access to advanced medical treatments, are more likely to have less gender imbalance in child births, while the more rural places would show a stronger inclination towards male newborns. Instead, here we observe the opposite.
 
-![](roywangtw.github.io/images/2017-11-19-male-female-deaths.png)
+![center](http://roywangtw.github.io/images/2017-11-19-male-female-deaths.png)
 
 The numbers of male deaths versus female deaths paint an even more intriguing picture. 
 
@@ -20,7 +20,7 @@ The numbers of male deaths versus female deaths paint an even more intriguing pi
 
 2. ***The gender differences in death counts are much more prononunced in the most populous regions***: Apparently, in New Taipei City, Kaohsiung City (SM), and Taichung City (SM), 3 of the most highly populated administrative regions (as indicated by the larger sizes of their points), men on average have been dying at a glaringly higher number than women.
 
-![](roywangtw.github.io/images/2017-11-19-numbers-marriages-births.png)
+![center](http://roywangtw.github.io/images/2017-11-19-numbers-marriages-births.png)
 
 When we plot the numbers of total births against those of marriages, the basic math behind Taiwan's dwindling birth rates and population growth becomes very clear. 
 
@@ -28,15 +28,15 @@ Over half of the points on the plot, especially those representing the largest n
 
 As is the case with many other developed countries nowadays, Taiwan's ongoing demographic crisis shows no sign of abating, and the fact that no point on the plot is above the steeper black line with a slope of 2 speaks volumes. In other words, virtually no administrative region across Taiwan has achieved a meaningfully large replacement level fertility to help stem the tide of nationwide population decline.
 
-![](roywangtw.github.io/images/2017-11-19-natural-social-increases.png)
+![center](http://roywangtw.github.io/images/2017-11-19-natural-social-increases.png)
 
 As seen in the plot above, the obvious pattern is that big cities like New Taipei City, Taichung City, Taipei City, and the emerging Taoyuan City have been steadily attracting more outside residents, all the while maintaining a comparatively health number of newborns. The rest of the country, however, has languished in prolonged population decline, with perennially low natural increases and often negative social increases.  
 
 This seems to confirm with an overall irreversible trend of ongoing urbanization.
 
-![](roywangtw.github.io/images/2017-11-19-transnational-marriages.png)
+![center](http://roywangtw.github.io/images/2017-11-19-transnational-marriages.png)
 
-![](roywangtw.github.io/images/2017-11-19-transnational-divorces.png)
+![center](http://roywangtw.github.io/images/2017-11-19-transnational-divorces.png)
 
 The 2 bar plots above show that transnational marriages saw a sharp decline from 2004 to 2006, but has been gradually edging back up in the past few years.
 
@@ -44,13 +44,13 @@ Interestingly and perhaps not coincidentally, the years during which the numbers
 
 The ebb and flow of transnational marriages and divorces nicely complement each other in our time frame.
 
-![](roywangtw.github.io/images/2017-11-19-transnational-marriages-divorces.png)
+![center](http://roywangtw.github.io/images/2017-11-19-transnational-marriages-divorces.png)
 
 When plotting the numbers of transnational marriages and divorces against each other, what is interesting is that the least populous regions see the their marriage-divorce ratio closest to 1:1, as their points cluster around the black, 45-degree parity line whereas the big metropolitan areas' points steer much further away from the 1:1 ratio. 
 
 In other words, when it comes to transnational relationships in the more rural regions, there tends to be nearly as many marriages as divorces going around.
 
-![](roywangtw.github.io/images/2017-11-19-births-moms.png)
+![center](http://roywangtw.github.io/images/2017-11-19-births-moms.png)
 
 The plot above shows births given by non-Taiwanese mothers remain still more prevalent in the less populated regions whose points stick closer to the black line with a slope of 0.25 (i.e. a 1:4 ratio between births by non-Taiwanese mothers and Taiwanese mothers). In contrast, most of the points for the more populated regions don't even touch the less steep grey line with a slope of 0.15 (i.e. a roughly 1:6.7 ratio between births by non-Taiwanese mothers and Taiwanese mothers). 
 
