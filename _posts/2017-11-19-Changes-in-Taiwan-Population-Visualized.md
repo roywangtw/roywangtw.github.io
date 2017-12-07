@@ -1,12 +1,8 @@
-## 1. Introduction
-
 Taiwan's society has been going through massive fundamental shifts during the past decade, and changes to its population structure is one of them. Here, we analyze Taiwan population data from 2004 to 2016 for interesting, noteworthy trends and phenomena.
 
 Our pick of 2004 as the beginning year is mainly because it was when the data started to become available for classification of children population based on their biological mothers' nationalities.
 
-***
-
-## 2. Data retrieval and manipulation
+## Data retrieval and manipulation
 
 The Taiwan population data for our analysis are published and updated periodically by the Ministry of the Interior, Taiwan (R.O.C.) and can be downloaded [here](http://sowf.moi.gov.tw/stat/month/m1-02.xls).  
 
