@@ -148,7 +148,7 @@ ts.trun <- window(ts, end = time(tail(ts, n = 30)[1])) %>%
 lines.default(ts)
 ```
 
-![center](roywangtw.github.io/images/2017-12-07-ARIMA-revised-model-backtest-plot.png)
+![center](http://roywangtw.github.io/images/2017-12-07-ARIMA-revised-model-backtest-plot.png)
 
 The red circles represent the predicted values for the past 30 trading days, forming a nearly straight line very quickly, which is odd given the series' predominantly oscillating pattern. 
 
