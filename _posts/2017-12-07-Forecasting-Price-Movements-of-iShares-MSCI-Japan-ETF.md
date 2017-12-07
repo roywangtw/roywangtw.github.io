@@ -1,10 +1,12 @@
 This post presents a simple time series analysis of [iShares MSCI Japan ETF (EWJ)](https://www.ishares.com/us/products/239665/ishares-msci-japan-etf) using autoregressive integrated moving average (ARIMA) models to forecast future price movements.
 
+The R script for the following analysis can be found [here](http://roywangtw.github.io/files/2017-12-07-Forecasting-Price-Movements-of-iShares-MSCI-Japan-ETF.nb.html).
+
 The iShares MSCI Japan ETF seeks to track the investment results of MSCI Japan Index, which consists of stocks traded primarily on the Tokyo Stock Exchange. A summary prospectus can be found [here](https://www.ishares.com/us/library/stream-document?stream=reg&product=WEBXJPY&shareClass=NA&documentId=925856~926146~926374~1180074~1242907&iframeUrlOverride=%2Fus%2Fliterature%2Fsummary-prospectus%2Fsp-ishares-msci-japan-etf-8-31.pdf).
 
 ## Data retrieval and exploration
 
-Due to the limits on data retrieval from Yahoo! Finance, our data dates back to only `r format(time(ts[1, ]), format = "%B %d, %Y")`.
+Due to the limits on data retrieval from Yahoo! Finance, our data dates back to only January 3, 2017.
 
 ```
 library(quantmod) 
@@ -19,7 +21,7 @@ frequency(ts) # Check the number of observations per unit time
 
 ![center](http://roywangtw.github.io/images/2017-12-07-load-examine-raw-data.png)
 
-In sum, our data contains `r dim(ts)[1]` observations and `r dim(ts)[2]` column, with `r frequency(ts)` day for each unit time, spanning from `r format(time(ts[1, ]), format = "%B %d, %Y")` to `r format(time(ts[nrow(ts), ]), format = "%B %d, %Y")`, which adds up to `r round(as.numeric(difftime(time(ts[nrow(ts), ]), time(ts[1, ]), units = "weeks"))/52.25, digits = 2)` years.
+In sum, our data contains 2753 observations and 1 column, with 1 day for each unit time, spanning from January 03, 2007 to December 06, 2017, which adds up to 10.91 years.
 
 The ETF's past performance is shown below.
 
