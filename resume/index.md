@@ -4,4 +4,4 @@ title: Resume
 tags: [resume]
 comments: false
 ---
-[My resume](/files/erobinson_resume.pdf)
+[My online resume](https://www.cakeresume.com/roywang)
