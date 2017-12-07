@@ -46,3 +46,5 @@ adm.names.2015 <- str_split(df2015[, 1], fixed(", "), simplify = TRUE) %>% # Ext
 ```
 
 We then replace the first column in each year's dataset with the appropriate version of English administrative region names.
+
+https://gist.github.com/roywangtw/05eef609c896499068a8a398340d5f61
