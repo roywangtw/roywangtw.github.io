@@ -5,10 +5,14 @@ tags: [about]
 comments: false
 ---
 
-I work as a Data Analyst at Etsy with our search team to design, implement, and analyze experiments on the ranking algorithm, UI changes, and new features. In summer 2016, I completed [Metis's](http://www.thisismetis.com/data-science) three-month, full-time Data Science Bootcamp, where I did several data science projects, ranging from using random forests to predict [successful projects on DonorsChoose.org](https://github.com/robinsones/Predicting-Sucess-on-DonorsChoose) to building an application in R Shiny that [helps data science freelancers find their best-fit jobs](https://github.com/robinsones/Freelancer-Shiny-App). Before Metis, I graduated in June from INSEAD with a Master's degree in Management (specialization in Organizational Behavior). I also earned my bachelor's degree from Rice University in Decision Sciences, an interdisciplinary major I designed that focused on understanding how people behave and make decisions. 
+I'm a financial spreadsheet junkie turned entrepreneur turned aspiring data scientist.
 
-I grew up in New York City, moved to Houston for college and then spent two years in Fontainebleau, France attending INSEAD. Because of INSEAD's two-campus system, I also lived for a few months in Singapore. I love all animals and consider myself part of the [#rcatladies](https://twitter.com/hashtag/rcatladies) despite not owning a cat. I do have a dog, Abby, who consistently surprises mountain hikers and Central Park joggers alike with her athletic ability.
+Please feel free to check out my [online resume](https://www.cakeresume.com/roywang) or [DataCamp profile](https://www.datacamp.com/profile/roywang).
 
-![](http://robinsones.github.io/images/2015-07-31 14.03.51.jpg)
+After immersing myself in the wonderfully powerful R programming for around 2 months, I began to learn everything I could about data science, and have since become ever more fascinated by this evolving interdisciplinary field.
 
-Disclaimer: At no point, including now, has this blog represented the opinion of my employer, Etsy. All views shared are my own.
+Thanks for taking the time to read my work!
+
+I'd love to hear your feedbacks, so please [drop me a line](mailto:chuehchenw@gmail.com).
+
+Disclaimer: At no point, including now, has this blog represented the opinion of my employer. All views shared are my own.
