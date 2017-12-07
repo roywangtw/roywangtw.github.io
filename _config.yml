@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hooked on Data"
+title                    : "Roy's DATA SCIENCE PLAYGROUND"
 title_separator          : "-"
-name                     : "Emily Robinson"
-description              : "Data Analyst"
-url                      : "https://robinsones.github.io"
+name                     : "Roy Wang"
+description              : "Running Enthusiast | Avid Reader | Green Tea Lover"
+url                      : "https://roywangtw.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -37,7 +37,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : robinson_es
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -54,7 +54,7 @@ social:
 analytics:
   provider               : "google"
   google:
-    tracking_id          : UA-80069806-1
+    tracking_id          : UA-110586331-1
 
 # Google AdSense
 google_ad_client         :
@@ -63,11 +63,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Emily Robinson"
-  avatar           : https://avatars.githubusercontent.com/robinsones
-  bio              : "Data Scientist"
-  location         : "New York"
-  email            : erobinson@etsy.com
+  name             : "Roy Wang"
+  avatar           : https://avatars.githubusercontent.com/roywangtw
+  bio              : "Aspiring Data Scientist"
+  location         : "Taipei"
+  email            : chuehchenw@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -75,12 +75,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : robinsones
-  google_plus      :
+  github           : roywangtw
+  google_plus      : u/0/+chuehchenwang
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : robinsones
+  linkedin         : chuehchenwang
   pinterest        :
   soundcloud       :
   stackoverflow    : 
