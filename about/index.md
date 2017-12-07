@@ -9,7 +9,7 @@ I'm a financial spreadsheet junkie turned entrepreneur turned aspiring data scie
 
 Please feel free to check out my [online resume](https://www.cakeresume.com/roywang) or [DataCamp profile](https://www.datacamp.com/profile/roywang).
 
-After immersing myself in the wonderfully powerful R programming for around 2 months, I began to learn everything I could about data science, and have since become ever more fascinated by this evolving interdisciplinary field.
+After immersing myself in the world of R programming for around 2 months, I began to learn everything I could about data science, and have since become ever more fascinated by this evolving interdisciplinary field.
 
 Thanks for taking the time to read my work!
 
