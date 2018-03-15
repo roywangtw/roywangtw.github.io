@@ -4,4 +4,4 @@ title: Resume
 tags: [resume]
 comments: false
 ---
-[My online resume](https://www.cakeresume.com/roywang)
+[My online resume](https://sites.google.com/view/roywang)
