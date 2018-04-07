@@ -1,9 +1,9 @@
-Many metropolitan areas throughout Taiwan have seen their housing prices rising steadily across the board over the past two decades. When it comes to ridiculously bloated housing prices, however, Taipei City, the capital of Taiwan, definitely takes the cake. The increasingly low housing affordability has, in fact, become one of the most gnawing concerns to most citizens and a hot-button issue in local politics.
+Located right on the junction between the Eurasian plate and the Philippine Sea plate, Taiwan is no stranger to big, devastating earthquakes. According to Taiwan's Central Weather Bureau, there have been 96 catastrophic earthquakes since 1900, rendering deadly tremors a permanent fixture in Taiwanese people's collective memory.
 
-Confronted with a seemingly overheating housing market, the Taiwanese government took steps to provide better price transparency and reduce information asymmetry in real estate transactions. As a result, since December 2011, selling parties have been legally required to submit within a certain time period a set of transaction information to the Ministry of the Interior databases for record keeping. Armed with such rich set of data, more and more local governments began to set up webpages that allow people to look up past local transaction records.
+In fact, just this February, a magnitude 5.8 earthquake rocked Hualien in eastern Taiwan, along with several strong aftershocks, killing more than a dozen people and leaving dozens more trapped under crumbled buildings.
 
-***This analysis draws upon Taipei City’s 2017 real estate transaction data, with an aim to build a predictive model for the city’s residential housing prices using several different tree-based modeling techniques.***
+The pressing question to ask is then the post's title: **More devastating earthquakes ahead for Taiwan?**
 
-The data for this analysis are updated on a weekly basis and freely available at [this webpage](http://data.taipei/opendata/datalist/datasetMeta?oid=a9a97996-3a55-46c8-9076-e5ebdefad6dc) on the Data.Taipei website, which aims to promote government transparency and openness as well as encouraging innovation from the private sector by making public numerous types of data that Taipei City Government regularly collects.
+*This analysis will thus explore possible clues and signals from the historical data of Taiwan's earthquakes in an attempt to shed light on this critical issue.*
 
 ### > *The full analysis and R script can be read [here](https://roywangtw.github.io/files/2018-02-11-Predicting-Taipei-City-Housing-Prices.nb.html).*
