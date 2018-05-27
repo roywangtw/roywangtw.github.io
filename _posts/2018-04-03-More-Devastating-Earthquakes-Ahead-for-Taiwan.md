@@ -6,4 +6,4 @@ The pressing question to ask now is the post's title: ***More devastating earthq
 
 *This analysis will thus explore possible clues and signals from the historical data of Taiwan’s earthquakes over the past 2 decades in hopes of shedding light on this all-important issue.*
 
-### > *The full analysis and R script can be read [here](https://roywangtw.github.io/files/2018-04-03-More-Devastating-Earthquakes-Ahead-for-Taiwan.nb.html).*
+### > *The full analysis and R code can be read [here](https://roywangtw.github.io/files/2018-04-03-More-Devastating-Earthquakes-Ahead-for-Taiwan.nb.html).*
