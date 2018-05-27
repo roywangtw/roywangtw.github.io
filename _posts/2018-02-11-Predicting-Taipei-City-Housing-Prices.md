@@ -6,4 +6,4 @@ Confronted with a seemingly overheating housing market, the Taiwanese government
 
 The data for this analysis are updated on a weekly basis and freely available at [this webpage](http://data.taipei/opendata/datalist/datasetMeta?oid=a9a97996-3a55-46c8-9076-e5ebdefad6dc) on the Data.Taipei website, which aims to promote government transparency and openness as well as encouraging innovation from the private sector by making public numerous types of data that Taipei City Government regularly collects.
 
-### > *The full analysis and R script can be read [here](https://roywangtw.github.io/files/2018-02-11-Predicting-Taipei-City-Housing-Prices.nb.html).*
+### > *The full analysis and R code can be read [here](https://roywangtw.github.io/files/2018-02-11-Predicting-Taipei-City-Housing-Prices.nb.html).*
