@@ -2,7 +2,7 @@ This post presents a simple time series analysis of [iShares MSCI Japan ETF (EWJ
 
 The iShares MSCI Japan ETF seeks to track the investment results of MSCI Japan Index, which consists of stocks traded primarily on the Tokyo Stock Exchange. A summary prospectus can be found [here](https://www.ishares.com/us/library/stream-document?stream=reg&product=WEBXJPY&shareClass=NA&documentId=925856~926146~926374~1180074~1242907&iframeUrlOverride=%2Fus%2Fliterature%2Fsummary-prospectus%2Fsp-ishares-msci-japan-etf-8-31.pdf).
 
-> *The full R script for the following analysis can be found [here](http://roywangtw.github.io/files/2017-12-07-Forecasting-Price-Movements-of-iShares-MSCI-Japan-ETF.nb.html).*
+> *The full R code for the following analysis can be found [here](http://roywangtw.github.io/files/2017-12-07-Forecasting-Price-Movements-of-iShares-MSCI-Japan-ETF.nb.html).*
 
 ## Data retrieval and exploration
 
