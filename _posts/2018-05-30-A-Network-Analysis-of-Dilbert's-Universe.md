@@ -14,4 +14,4 @@ More specifically, we are interested in answering these 2 questions:
 
 The strips' full range of intricacies and sarcastic overtones are probably best experienced through reading them. However, by scraping, analyzing, and visualizing how the Dilbert comic strips throughout the past few years, we hope to present an interesting way of understanding the hidden social fabric that ties the characters together.
 
-### > *The full analysis and R code can be read [here](roywangtw.github.io/files/2018-05-30-A-Network-Analysis-of-Dilbert's-Universe.nb.html).*
+### > *The full analysis and R code can be read [here](https://roywangtw.github.io/files/2018-05-30-A-Network-Analysis-of-Dilbert's-Universe.nb.html).*
