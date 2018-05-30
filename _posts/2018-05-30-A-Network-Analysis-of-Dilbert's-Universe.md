@@ -8,9 +8,9 @@ Therefore, this post will examine and visualize the network of relationships amo
 
 More specifically, we are interested in answering these 2 questions:
 
-##### 1. ***What is the social network of Dilbert's universe like?***
+1. ***What is the social network of Dilbert's universe like?***
 
-##### 2. ***Which characters are the most essential ones in the Dilbert network?***
+2. ***Which characters are the most essential ones in the Dilbert network?***
 
 The strips' full range of intricacies and sarcastic overtones are probably best experienced through reading them. However, by scraping, analyzing, and visualizing how the Dilbert comic strips throughout the past few years, we hope to present an interesting way of understanding the hidden social fabric that ties the characters together.
 
